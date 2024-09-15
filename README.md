@@ -37,9 +37,7 @@ This repository provides a complete end-to-end framework for a Search and Rescue
 - PyMAVLink (for UAV communication)
 
 ## Demo
-Check out the 
-[Demo Video](https://drive.google.com/file/d/1Q_a6o1J586om6R37FiGkabPJGlgXHhM9/view)  
-[Technical Specifications](https://drive.google.com/file/d/1YS8dZPF5gErC8Z3Ev9Y5g6d7FhhhxJ-c/view)
+Check out the [Demo Video](https://drive.google.com/file/d/1Q_a6o1J586om6R37FiGkabPJGlgXHhM9/view)  and [Technical Specifications](https://drive.google.com/file/d/1YS8dZPF5gErC8Z3Ev9Y5g6d7FhhhxJ-c/view)
 
 ## License
 This project is licensed under the MIT License.
